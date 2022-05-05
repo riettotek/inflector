@@ -12,7 +12,8 @@ final class Language
     public const PORTUGUESE       = 'portuguese';
     public const SPANISH          = 'spanish';
     public const TURKISH          = 'turkish';
-
+    public const ITALIAN          = 'italian';
+    
     private function __construct()
     {
     }
